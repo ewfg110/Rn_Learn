@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "/Users/over/Desktop/work/learn/Rn_Learn/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w720dp-v13/values-w720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 76,
+                    "endOffset": 127
+                },
+                "from": {
+                    "file": "/Users/over/.android/build-cache/e4e2de2984c3b5b6300a4a1753199a05d7aaedd1/output/res/values-w720dp/values-w720dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 282,
+                        "endColumn": 76,
+                        "endOffset": 354
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/over/Desktop/work/TestRN/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w720dp-v13/values-w720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 76,
+                    "endOffset": 127
+                },
+                "from": {
+                    "file": "/Users/over/.android/build-cache/e4e2de2984c3b5b6300a4a1753199a05d7aaedd1/output/res/values-w720dp/values-w720dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 282,
+                        "endColumn": 76,
+                        "endOffset": 354
+                    }
+                }
+            }
+        ]
+    }
+]

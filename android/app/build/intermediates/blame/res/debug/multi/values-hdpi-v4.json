@@ -1,0 +1,54 @@
+[
+    {
+        "outputFile": "/Users/over/Desktop/work/learn/Rn_Learn/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 13,
+                    "endOffset": 327
+                },
+                "from": {
+                    "file": "/Users/over/.android/build-cache/e4e2de2984c3b5b6300a4a1753199a05d7aaedd1/output/res/values-hdpi/values-hdpi.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 286,
+                        "endLine": 8,
+                        "endColumn": 13,
+                        "endOffset": 558
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/over/Desktop/work/TestRN/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 13,
+                    "endOffset": 327
+                },
+                "from": {
+                    "file": "/Users/over/.android/build-cache/e4e2de2984c3b5b6300a4a1753199a05d7aaedd1/output/res/values-hdpi/values-hdpi.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 286,
+                        "endLine": 8,
+                        "endColumn": 13,
+                        "endOffset": 558
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/over/Desktop/work/TestRN/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/over/.android/build-cache/e4e2de2984c3b5b6300a4a1753199a05d7aaedd1/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/over/Desktop/work/learn/Rn_Learn/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/over/.android/build-cache/e4e2de2984c3b5b6300a4a1753199a05d7aaedd1/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/over/Desktop/work/TestRN/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/over/.android/build-cache/e4e2de2984c3b5b6300a4a1753199a05d7aaedd1/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/over/Desktop/work/learn/Rn_Learn/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/over/.android/build-cache/e4e2de2984c3b5b6300a4a1753199a05d7aaedd1/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]

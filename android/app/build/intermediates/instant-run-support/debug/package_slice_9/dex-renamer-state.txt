@@ -1,0 +1,4 @@
+#Thu Jun 15 11:48:26 CST 2017
+base.0=/Users/over/Desktop/work/TestRN/android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9
+renamed.0=classes.dex
+file.0=/Users/over/Desktop/work/TestRN/android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex

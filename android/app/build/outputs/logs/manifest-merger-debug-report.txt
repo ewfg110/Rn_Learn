@@ -1,0 +1,94 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/over/Desktop/work/learn/Rn_Learn/android/app/src/main/AndroidManifest.xml:1:1-32:12
+	package
+		ADDED from /Users/over/Desktop/work/learn/Rn_Learn/android/app/src/main/AndroidManifest.xml:2:5-25
+		INJECTED from /Users/over/Desktop/work/learn/Rn_Learn/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/over/Desktop/work/learn/Rn_Learn/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/over/Desktop/work/learn/Rn_Learn/android/app/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /Users/over/Desktop/work/learn/Rn_Learn/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/over/Desktop/work/learn/Rn_Learn/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/over/Desktop/work/learn/Rn_Learn/android/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /Users/over/Desktop/work/learn/Rn_Learn/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/over/Desktop/work/learn/Rn_Learn/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/over/Desktop/work/learn/Rn_Learn/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/over/Desktop/work/learn/Rn_Learn/android/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /Users/over/Desktop/work/learn/Rn_Learn/android/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/over/Desktop/work/learn/Rn_Learn/android/app/src/main/AndroidManifest.xml:7:5-77
+MERGED from [com.facebook.react:react-native:0.44.3] /Users/over/.android/build-cache/921e9cbd1dc64e2a02cc2a6ff37a2b435faeae27/output/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/over/Desktop/work/learn/Rn_Learn/android/app/src/main/AndroidManifest.xml:7:22-75
+uses-sdk
+ADDED from /Users/over/Desktop/work/learn/Rn_Learn/android/app/src/main/AndroidManifest.xml:9:5-11:41
+MERGED from [com.facebook.react:react-native:0.44.3] /Users/over/.android/build-cache/921e9cbd1dc64e2a02cc2a6ff37a2b435faeae27/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/over/.android/build-cache/e4e2de2984c3b5b6300a4a1753199a05d7aaedd1/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] /Users/over/.android/build-cache/297aaae008ca0edce3b8561da9011f67f3a56d99/output/AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/over/.android/build-cache/de8e76845706bc50c13c2a2374bac3e256db861e/output/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.0.1] /Users/over/.android/build-cache/d2b00d43a0c6c629a9d5a18480942e1155f2265c/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.0.1] /Users/over/.android/build-cache/948cf057f1c88b55d34305ec8af560918c46f992/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.0.1] /Users/over/.android/build-cache/dfa94bd3994659ab0a35a4856e5a141739cac482/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.0.1] /Users/over/.android/build-cache/84148948ca2471c09e1267ced95a43a52af2f0ef/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.0.1] /Users/over/.android/build-cache/5c9f20f5cf659180adc1c1a99e2fb831f3afba0a/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.0.1] /Users/over/.android/build-cache/38ca6dad786b894f09172377e1cde8f0b869b669/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/over/.android/build-cache/ef25ab34a2e6028f3d912cb6b36e5e69ae05a3fa/output/AndroidManifest.xml:2:3-70
+	android:targetSdkVersion
+		ADDED from /Users/over/Desktop/work/learn/Rn_Learn/android/app/src/main/AndroidManifest.xml:11:9-38
+		INJECTED from /Users/over/Desktop/work/learn/Rn_Learn/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/over/Desktop/work/learn/Rn_Learn/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/over/Desktop/work/learn/Rn_Learn/android/app/src/main/AndroidManifest.xml:10:9-35
+		INJECTED from /Users/over/Desktop/work/learn/Rn_Learn/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/over/Desktop/work/learn/Rn_Learn/android/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/over/Desktop/work/learn/Rn_Learn/android/app/src/main/AndroidManifest.xml:13:5-30:19
+MERGED from [com.facebook.react:react-native:0.44.3] /Users/over/.android/build-cache/921e9cbd1dc64e2a02cc2a6ff37a2b435faeae27/output/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/over/.android/build-cache/e4e2de2984c3b5b6300a4a1753199a05d7aaedd1/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] /Users/over/.android/build-cache/297aaae008ca0edce3b8561da9011f67f3a56d99/output/AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/over/.android/build-cache/ef25ab34a2e6028f3d912cb6b36e5e69ae05a3fa/output/AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/over/.android/build-cache/4d5964efb409d75035473cf91adfe7c0cde9072e/output/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /Users/over/Desktop/work/learn/Rn_Learn/android/app/src/main/AndroidManifest.xml:16:7-39
+	android:allowBackup
+		ADDED from /Users/over/Desktop/work/learn/Rn_Learn/android/app/src/main/AndroidManifest.xml:15:7-33
+	android:icon
+		ADDED from /Users/over/Desktop/work/learn/Rn_Learn/android/app/src/main/AndroidManifest.xml:17:7-41
+	android:theme
+		ADDED from /Users/over/Desktop/work/learn/Rn_Learn/android/app/src/main/AndroidManifest.xml:18:7-38
+	android:name
+		ADDED from /Users/over/Desktop/work/learn/Rn_Learn/android/app/src/main/AndroidManifest.xml:14:7-38
+activity#com.testrn.MainActivity
+ADDED from /Users/over/Desktop/work/learn/Rn_Learn/android/app/src/main/AndroidManifest.xml:19:7-28:18
+	android:label
+		ADDED from /Users/over/Desktop/work/learn/Rn_Learn/android/app/src/main/AndroidManifest.xml:21:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/over/Desktop/work/learn/Rn_Learn/android/app/src/main/AndroidManifest.xml:23:9-51
+	android:configChanges
+		ADDED from /Users/over/Desktop/work/learn/Rn_Learn/android/app/src/main/AndroidManifest.xml:22:9-79
+	android:name
+		ADDED from /Users/over/Desktop/work/learn/Rn_Learn/android/app/src/main/AndroidManifest.xml:20:9-37
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/over/Desktop/work/learn/Rn_Learn/android/app/src/main/AndroidManifest.xml:24:9-27:25
+action#android.intent.action.MAIN
+ADDED from /Users/over/Desktop/work/learn/Rn_Learn/android/app/src/main/AndroidManifest.xml:25:13-65
+	android:name
+		ADDED from /Users/over/Desktop/work/learn/Rn_Learn/android/app/src/main/AndroidManifest.xml:25:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/over/Desktop/work/learn/Rn_Learn/android/app/src/main/AndroidManifest.xml:26:13-73
+	android:name
+		ADDED from /Users/over/Desktop/work/learn/Rn_Learn/android/app/src/main/AndroidManifest.xml:26:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/over/Desktop/work/learn/Rn_Learn/android/app/src/main/AndroidManifest.xml:29:7-84
+	android:name
+		ADDED from /Users/over/Desktop/work/learn/Rn_Learn/android/app/src/main/AndroidManifest.xml:29:17-81
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/over/Desktop/work/learn/Rn_Learn/android/app/src/main/AndroidManifest.xml:1:1-32:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/over/Desktop/work/learn/Rn_Learn/android/app/src/main/AndroidManifest.xml:1:1-32:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/over/Desktop/work/learn/Rn_Learn/android/app/src/main/AndroidManifest.xml:1:1-32:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

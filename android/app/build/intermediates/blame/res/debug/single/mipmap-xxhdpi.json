@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/over/Desktop/work/learn/Rn_Learn/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/over/Desktop/work/learn/Rn_Learn/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/over/Desktop/work/TestRN/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/over/Desktop/work/TestRN/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]
