@@ -2,20 +2,27 @@ import React from 'react';
 import {StyleSheet, Image} from 'react-native';
 import {TabNavigator} from 'react-navigation';
 
-
+import HomePage from "../pages/HomePage"
 import ListsPage from "../pages/ListsPage"
 import WelfarePage from "../pages/WelfarePage"
 
 
 const Navigator = TabNavigator({
-    One: {
+    One:{
+        screen: HomePage, navigationOptions: {
+            title: "Home",
+            titleStyle: {color: '#000000'},
+            selectedTitleStyle: {color: '#1e90ff'}
+        }
+    },
+    Two: {
         screen: ListsPage, navigationOptions: {
         title:"Android",
         titleStyle:{color:'#000000'},
         selectedTitleStyle:{color:'#1e90ff'}
         }
     },
-    Two: {
+    Three: {
         screen: WelfarePage, navigationOptions: {
         title:"福利",
         titleStyle:{color:'#000000'},

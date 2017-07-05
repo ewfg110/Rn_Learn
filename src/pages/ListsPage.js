@@ -66,7 +66,7 @@ export default class ListsPage extends Component{
              <TouchableHighlight onPress={() => this.props.navigation.navigate('web',{url:item.url,title:item.desc})}>
                         <View style={styles.containers}>
 
-                                <Image source={{uri: this._checkImages({item})}} style={styles.imageStyle} ref={component => this._root = component}/>
+                                <Image source={{uri: this._checkImages({item})}} style={styles.imageStyle} />
                                 <Text style={styles.textStyle}>{item.who}</Text>
                         </View>
                    </TouchableHighlight>

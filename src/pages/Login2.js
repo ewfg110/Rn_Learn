@@ -11,6 +11,7 @@ import CategroyPage from "../pages/CategroyPage"
 import ListsPage from "../pages/ListsPage"
 import WelfarePage from "../pages/WelfarePage"
 import WebPage from "../pages/WebPage"
+import HomePage from "../pages/HomePage"
 import Navigator from '../common/TabNavigator'
 import MyToastMoudle from '../components/MyToastMoudle'
 import {StackNavigator, NavigationActions} from 'react-navigation';
@@ -42,20 +43,7 @@ constructor(props){
   }
 
 }
- _init=()=>{
-  console.log("init");
-/*this.setState({
-        text:"ddddddd"
-      })*/
-  fetch("http://gank.io/api/data/Android/10/1").then((res)=>res.json())
-      .then((responseJSON)=>{
-      this.setState({
-        text:responseJSON.results[0].source,
-        user:"",
-        pass:"",
-      })
-      })
- }
+
 
  _login=()=>{
 
@@ -112,6 +100,7 @@ const SimpleApp = StackNavigator({
     welfare:{screen:WelfarePage},
     Navigator:{screen:Navigator},
     web:{screen:WebPage},
+    home:{screen:HomePage},
 },{
       initialRouteName: 'Login2',
       navigationOptions: {
