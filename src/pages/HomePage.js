@@ -76,7 +76,7 @@ export default class HomePage extends Component{
             <Image source={{uri: this.state.headerImg}}style={[{ height: 200}, styles.imageStyle]}>
                 <Text style={styles.dateStyle}>{this.state.date}</Text>
             </Image>
-    );
+        );
     }
     /*sectionlist头部*/
     _handleSectionHeader = ({section}) => {

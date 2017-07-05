@@ -3,7 +3,7 @@ import {StyleSheet, WebView, View} from 'react-native';
 
 export default class WebPage extends Component {
     static navigationOptions = ({navigation}) => ({
-        headerTitle : navigation.state.params.title
+        headerTitle : navigation.state.params.title,
     });
 
     render() {
