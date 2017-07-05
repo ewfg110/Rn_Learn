@@ -47,19 +47,9 @@ constructor(props){
 
  _login=()=>{
 
-     /*fetch("http:///Account/LogOn?userName="+this.state.user+"&password="+this.state.pass).then((res)=>res.json())
-     .then((responseJSON)=>{
-         this.setState({
-         text:responseJSON.MESSAGE
-         })
-     }).then(()=>{
-
-     if(this.state.text=="请求成功"){*/
-
 
         this.props.navigation.navigate('Navigator')
-    /* }
-     })*/
+    
 
  }
 
