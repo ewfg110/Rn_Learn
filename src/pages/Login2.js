@@ -12,8 +12,10 @@ import ListsPage from "../pages/ListsPage"
 import WelfarePage from "../pages/WelfarePage"
 import WebPage from "../pages/WebPage"
 import HomePage from "../pages/HomePage"
+import AnimPage from "../pages/AnimPage"
 import Navigator from '../common/TabNavigator'
 import MyToastMoudle from '../components/MyToastMoudle'
+
 import {StackNavigator, NavigationActions} from 'react-navigation';
 import {
   AppRegistry,
@@ -21,6 +23,7 @@ import {
   Text,
   View,
   TextInput,
+  
   NavigatorIOS,
   Button
 } from 'react-native';
@@ -46,11 +49,8 @@ constructor(props){
 
 
  _login=()=>{
-
-
-        this.props.navigation.navigate('Navigator')
-    
-
+        
+        this.props.navigation.navigate('Navigator');
  }
 
 
@@ -91,6 +91,7 @@ const SimpleApp = StackNavigator({
     Navigator:{screen:Navigator},
     web:{screen:WebPage},
     home:{screen:HomePage},
+    anim:{screen:AnimPage},
 },{
       initialRouteName: 'Login2',
       navigationOptions: {

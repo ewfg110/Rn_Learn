@@ -5,6 +5,7 @@ import {TabNavigator} from 'react-navigation';
 import HomePage from "../pages/HomePage"
 import ListsPage from "../pages/ListsPage"
 import WelfarePage from "../pages/WelfarePage"
+import AnimPage from "../pages/AnimPage"
 
 
 const Navigator = TabNavigator({
@@ -25,6 +26,13 @@ const Navigator = TabNavigator({
     Three: {
         screen: WelfarePage, navigationOptions: {
         title:"福利",
+        titleStyle:{color:'#000000'},
+        selectedTitleStyle:{color:'#1e90ff'}
+        }
+    },
+    four:{
+        screen: AnimPage, navigationOptions: {
+        title:"动画测试",
         titleStyle:{color:'#000000'},
         selectedTitleStyle:{color:'#1e90ff'}
         }
